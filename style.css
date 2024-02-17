@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(100, 93, 201);
+}
+h4{
+    margin: 100px auto;
+    width: 900px;
+}
+.fa {
+    font-size: 50px !important;
+}
